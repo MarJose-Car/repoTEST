@@ -1,8 +1,13 @@
-/*feuimme de style pour le premier repo*/
+/*feuille de style pour le premier repo*/
 
 body {
     background-color:aquamarine;
 }
+
 h1 {
-    background-color: blueviolet;
+    color: red;
+}
+p{
+    background-color: orange;
+    color: white;
 }
